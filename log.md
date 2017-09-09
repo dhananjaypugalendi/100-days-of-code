@@ -15,3 +15,12 @@
 **Thoughts:** finally wrapped my head around the views, urls and forms
 
 **Link to work:** private_repo :(
+
+
+### Day 2: september 9, 2017
+
+**Today's Progress**: working on a way to connect bluetooth of android device to microcontrollers
+
+**Thoughts:** looks like it requires a lot of work for such common procedure
+
+**Link to work:** private_repo :(
