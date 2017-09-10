@@ -21,6 +21,15 @@
 
 **Today's Progress**: working on a way to connect bluetooth of android device to microcontrollers
 
-**Thoughts:** looks like it requires a lot of work for such common procedure
+**Thoughts:** looks like it requires a lot of work for such a common procedure
+
+**Link to work:** private_repo :(
+
+
+### Day 3: september 10, 2017
+
+**Today's Progress**: finished and tested the app with the HC-05 modules, working on UI
+
+**Thoughts:** finally got to understand how the modules receive data
 
 **Link to work:** private_repo :(
